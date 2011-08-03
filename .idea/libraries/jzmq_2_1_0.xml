@@ -3,7 +3,11 @@
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/jzmq-2.1.0-SNAPSHOT.jar!/" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/jzmq-2.1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jzmq-2.1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
